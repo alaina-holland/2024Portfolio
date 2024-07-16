@@ -12,6 +12,13 @@ on Coral Survival
 ](https://docs.google.com/presentation/d/1_6Y2P_3gePdnmaBcflvlaCUt6H0aMcrB/edit?usp=sharing&ouid=116382978099649484134&rtpof=true&sd=true)
 <img src="images/coralSA.png?raw=true"/>
 
+### Coming Soon!
+
+* **Bachelor Survival Analysis** - What does it take to survive to the final rose?
+* **Inventory Optimization Machine Learning** - Can we create a Supply Chain ML product?
+* **Capstone Project: Evaluating Telehealth AI Diagnosis Accuracy** - Should you trust those chatbots??
+
+
 ### News
 
 - [Business Graduate Finds Value in Waste With New Start Up](https://www.boisestate.edu/news/2021/06/03/business-graduate-finds-value-in-waste-with-new-start-up/)
