@@ -13,7 +13,7 @@
 ### Statistics 
 [Survival Analysis: Impacts of Sedimentation and Temperature 
 on Coral Survival
-](/images/DATA596_SP24_PROJECT1_HOLLAND_SCHWARTZ.pptx)
+](/images/CoralSurvivalAnalysis)
 <img src="images/coralSA.png?raw=true"/>
 
 ### News
