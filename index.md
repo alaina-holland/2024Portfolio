@@ -5,7 +5,7 @@
 ### Data Visualization
 
 [2022-2023 US Book Bans](/Project1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bookbanslogo.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
