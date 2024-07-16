@@ -11,8 +11,10 @@
 <img src="images/bookbanslogo.png?raw=true"/>
 
 ### Statistics 
-[2022-2023 US Book Bans](/Project1)
-<img src="images/bookbanslogo.png?raw=true"/>
+[Survival Analysis: Impacts of Sedimentation and Temperature 
+on Coral Survival
+](/images/DATA596_SP24_PROJECT1_HOLLAND_SCHWARTZ.pptx)
+<img src="images/coralSA.png?raw=true"/>
 
 ### News
 
