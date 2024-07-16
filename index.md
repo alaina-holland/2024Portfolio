@@ -1,10 +1,6 @@
 ## Portfolio
 
 ---
-### Machine Learning 
-[2022-2023 US Book Bans](/Project1)
-<img src="images/bookbanslogo.png?raw=true"/>
-
 ### Data Visualization
 
 [2022-2023 US Book Bans](/Project1)
@@ -13,7 +9,7 @@
 ### Statistics 
 [Survival Analysis: Impacts of Sedimentation and Temperature 
 on Coral Survival
-](/images/CoralSurvivalAnalysis)
+](https://docs.google.com/presentation/d/1_6Y2P_3gePdnmaBcflvlaCUt6H0aMcrB/edit?usp=sharing&ouid=116382978099649484134&rtpof=true&sd=true)
 <img src="images/coralSA.png?raw=true"/>
 
 ### News
