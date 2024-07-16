@@ -14,12 +14,12 @@ on Coral Survival
 
 ### Coming Soon!
 
-* **Bachelor Survival Analysis** - What does it take to survive to the final rose?
+* **Bachelor Survival Analysis** - What does it take to prevail to the final rose?
 * **Inventory Optimization Machine Learning** - Can we create a Supply Chain ML product?
 * **Capstone Project: Evaluating Telehealth AI Diagnosis Accuracy** - Should you trust those chatbots??
 
 
-### News
+### Press
 
 - [Business Graduate Finds Value in Waste With New Start Up](https://www.boisestate.edu/news/2021/06/03/business-graduate-finds-value-in-waste-with-new-start-up/)
 
