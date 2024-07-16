@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization
 
-[Project 1 Title](/sample_page)
+[2022-2023 US Book Bans](/Project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
