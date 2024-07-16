@@ -1,6 +1,9 @@
 ## Portfolio
 
 ---
+### Machine Learning 
+[2022-2023 US Book Bans](/Project1)
+<img src="images/bookbanslogo.png?raw=true"/>
 
 ### Data Visualization
 
