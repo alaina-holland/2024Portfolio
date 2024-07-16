@@ -7,23 +7,13 @@
 [2022-2023 US Book Bans](/Project1)
 <img src="images/bookbanslogo.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Statistics 
+[2022-2023 US Book Bans](/Project1)
+<img src="images/bookbanslogo.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### News
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Business Graduate Finds Value in Waste With New Start Up](https://www.boisestate.edu/news/2021/06/03/business-graduate-finds-value-in-waste-with-new-start-up/)
 
 ---
 
