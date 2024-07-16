@@ -52,6 +52,13 @@ Explore our interactive graphic on [Plotly](https://chart-studio.plotly.com/~aho
 <img src="/images/Statebb.png?raw=true"/>
 
 
+## Presentation
+
+You can view the full presentation [here](/images/FinalProject_AlainaHolland_JordynIrwin.pdf).
+
+### Questions?
+
+If you have any questions or need further information, please feel free to reach out.
 
 ## Additional Information
 
@@ -60,7 +67,7 @@ For more details and to explore the data further, please visit:
 - [Interactive Graphic](https://chart-studio.plotly.com/~aholland/1/#/)
 
 
-## Data Description
+### Data Description
 
 The data for this project is sourced from PEN America's Index of School Book Bans. It includes:
 - **Title**
@@ -68,20 +75,14 @@ The data for this project is sourced from PEN America's Index of School Book Ban
 - **School District**
 - **State**
 
-### Data Links
+#### Data Links
 - [PEN America Index 2021-2022](https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318)
 - [PEN America Index 2022-2023](https://docs.google.com/spreadsheets/d/1a6v7R7pidO7TIwRZTIh9T6c0--QNNVufcUUrDcz2GJM/edit#gid=717219603)
   
 The data covers the period from July 1, 2021, to June 30, 2023, and highlights restrictions on student access to books in US school libraries or classrooms. Some bans have been lifted, while others are ongoing.
 
 
-### Questions?
 
-If you have any questions or need further information, please feel free to reach out.
-
-## Presentation
-
-You can view the full presentation [here]/images/FinalProject_AlainaHolland_JordynIrwin.pdf).
 
 
 ---
