@@ -56,9 +56,10 @@ The primary outcome of this project was to create a polished graphic that effect
 
 Explore our interactive graphic on [Plotly](https://chart-studio.plotly.com/~aholland/1/#/) to visualize the data on book bans.
 
-## Proposal for Action
+[2022-2023 US Book Bans](/images/Mapbb.png)
+[2021-2023 Change in US State Book Bans](/images/Statebb.png)
+[Top 10 Banned Books](/images/Top10bb.png)
 
-We propose that the American Library Association creates a program allowing youth under the age of 21 access to digital libraries, regardless of their geographic location. This would help mitigate the impact of book bans and ensure equal access to diverse educational resources.
 
 ## Additional Information
 
