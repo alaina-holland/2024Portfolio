@@ -27,28 +27,20 @@ Books provide:
 - **Safeguarding of Freedom of Expression**
 - **Development of Cultural Understanding**
 
-## Data Description
 
-The data for this project is sourced from PEN America's Index of School Book Bans. It includes:
-- **Title**
-- **Author**
-- **School District**
-- **State**
+In the 2022 - 2023 Academic year, Texas and Florida had the most books banned ranging from at least 500 books to over 750 books banned in each state. 
+<img src="images/Mapbb.png?raw=true"/> <img src="/images/Statebb.png?raw=true"/>
 
-The data covers the period from July 1, 2021, to June 30, 2023, and highlights restrictions on student access to books in US school libraries or classrooms. Some bans have been lifted, while others are ongoing.
-
-### Data Links
-- [PEN America Index 2021-2022](https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318)
-- [PEN America Index 2022-2023](https://docs.google.com/spreadsheets/d/1a6v7R7pidO7TIwRZTIh9T6c0--QNNVufcUUrDcz2GJM/edit#gid=717219603)
 
 ## Themes in Banned Books
 
-The banned books often cover themes such as:
+Banned books often cover themes such as:
 - **Identity**
 - **Coming-of-Age**
 - **Social Issues**
 - **Acceptance and Belonging**
 - **Friendship and Relationships**
+<img src="/images/Top10bb.png"/>
 
 ## Project Outcome
 
@@ -57,9 +49,8 @@ The primary outcome of this project was to create a polished graphic that effect
 Explore our interactive graphic on [Plotly](https://chart-studio.plotly.com/~aholland/1/#/) to visualize the data on book bans.
 
 
-<img src="images/Mapbb.png?raw=true"/>
 <img src="/images/Statebb.png?raw=true"/>
-<img src="/images/Top10bb.png"/>
+
 
 
 ## Additional Information
@@ -67,6 +58,22 @@ Explore our interactive graphic on [Plotly](https://chart-studio.plotly.com/~aho
 For more details and to explore the data further, please visit:
 - [PEN America](https://pen.org/)
 - [Interactive Graphic](https://chart-studio.plotly.com/~aholland/1/#/)
+
+
+## Data Description
+
+The data for this project is sourced from PEN America's Index of School Book Bans. It includes:
+- **Title**
+- **Author**
+- **School District**
+- **State**
+
+### Data Links
+- [PEN America Index 2021-2022](https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318)
+- [PEN America Index 2022-2023](https://docs.google.com/spreadsheets/d/1a6v7R7pidO7TIwRZTIh9T6c0--QNNVufcUUrDcz2GJM/edit#gid=717219603)
+  
+The data covers the period from July 1, 2021, to June 30, 2023, and highlights restrictions on student access to books in US school libraries or classrooms. Some bans have been lifted, while others are ongoing.
+
 
 ### Questions?
 
