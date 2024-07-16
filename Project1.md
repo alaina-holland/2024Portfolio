@@ -79,4 +79,4 @@ You can view the full presentation [here]/images/FinalProject_AlainaHolland_Jord
 
 ---
 
-This README provides an overview of our project on book bans in the United States, highlighting the importance of books in education and the impact of restricting access. We hope this project sheds light on the significance of preserving freedom of expression and access to diverse literary resources.
+This portfolio piece provides an overview of our project on book bans in the United States, highlighting the importance of books in education and the impact of restricting access. We hope this project sheds light on the significance of preserving freedom of expression and access to diverse literary resources.
