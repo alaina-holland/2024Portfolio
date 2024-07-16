@@ -56,9 +56,10 @@ The primary outcome of this project was to create a polished graphic that effect
 
 Explore our interactive graphic on [Plotly](https://chart-studio.plotly.com/~aholland/1/#/) to visualize the data on book bans.
 
-[2022-2023 US Book Bans](/images/Mapbb.png)
-[2021-2023 Change in US State Book Bans](/images/Statebb.png)
-[Top 10 Banned Books](/images/Top10bb.png)
+
+<img src="images/Mapbb.png?raw=true"/>
+<img src="/images/Statebb.png?raw=true"/>
+<img src="/images/Top10bb.png"/>
 
 
 ## Additional Information
@@ -73,7 +74,7 @@ If you have any questions or need further information, please feel free to reach
 
 ## Presentation
 
-You can view the full presentation [here](https://github.com/alaina-holland/2024Portfolio/blob/master/images/FinalProject_AlainaHolland_JordynIrwin.pdf).
+You can view the full presentation [here]/images/FinalProject_AlainaHolland_JordynIrwin.pdf).
 
 
 ---
