@@ -8,7 +8,7 @@ This project, part of the WuMSDS Data Visualization Course final project, focuse
 - Alaina Holland
 - Jordyn Irwin
 
-### Date
+### Date Presented
 - December 5, 2023
 
 ### Data Source
@@ -28,8 +28,8 @@ Books provide:
 - **Development of Cultural Understanding**
 
 
-In the 2022 - 2023 Academic year, Texas and Florida had the most books banned ranging from at least 500 books to over 750 books banned in each state. 
-<img src="images/Mapbb.png?raw=true"/> <img src="/images/Statebb.png?raw=true"/>
+In the 2022-2023 academic year, Texas and Florida led in the number of book bans, with Texas banning at least 500 books and Florida banning over 750 books.
+<img src="images/Mapbb.png?raw=true"/>
 
 
 ## Themes in Banned Books
