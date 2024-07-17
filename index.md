@@ -18,6 +18,7 @@ on Coral Survival
 * **Inventory Optimization Machine Learning** - Can we create a Supply Chain ML product?
 * **Capstone Project: Evaluating Telehealth AI Diagnosis Accuracy** - Should you trust those chatbots??
 
+### [Resume] (/AlainaHolland_Amazon_Resume.pdf)
 
 ### Press
 
