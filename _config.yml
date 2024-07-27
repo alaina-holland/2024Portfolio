@@ -3,8 +3,10 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! I'm Alaina Holland, a data enthusiast with an MBA and a master's in Data Science from Willamette University. With a background in the art world and experience in supply chain management, I specialize in turning complex data into actionable insights to solve business problems. Whether it's optimizing inventory systems, evaluating AI in telehealth, or even determining what it takes to survive 'The Bachelor', I'm passionate about making data work for you.
   <br><br>
+  <br><br> 
   <br><br>
-  <a href="https://www.linkedin.com/in/alainaholland/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/alainaholland/">Find me on LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
