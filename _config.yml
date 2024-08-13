@@ -4,17 +4,16 @@ description: >
   <div class="scrollable">
     I like data and solving problems. With an MBA and a master's in Data Science from Willamette University, I enjoy turning complex data into actionable insights. Whether it's optimizing inventory systems, evaluating AI in telehealth, or figuring out what it takes to survive 'The Bachelor', I'm passionate about making data work for you.
 
-    <br><br>**Find me on LinkedIn:** [LinkedIn/alainaholland](https://www.linkedin.com/in/alainaholland/)
+    <br><br><strong>Find me on LinkedIn:</strong> <a href="https://www.linkedin.com/in/alainaholland/">LinkedIn/alainaholland</a>
 
-    <br><br>**Contact Information:**
+    <br><br><strong>Contact Information:</strong>
     <ul>
-      
-      <li><strong>Email</strong>: [alainaholland27@gmail.com](mailto:alainaholland27@gmail.com)</li>
-      <li><strong>Website</strong>: [www.alainaholland.com](http://www.alainaholland.com)</li>
+      <li><strong>Email</strong>: <a href="mailto:alainaholland27@gmail.com">alainaholland27@gmail.com</a></li>
+      <li><strong>Website</strong>: <a href="http://www.alainaholland.com">www.alainaholland.com</a></li>
     </ul>
   </div>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-google_analytics: UA-000000-0 # Replace with your Google Analytics tracking ID
+google_analytics: UA-000000-0 # Replace with your Google Analytics tracking ID to actually work
