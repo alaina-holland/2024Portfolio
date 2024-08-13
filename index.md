@@ -7,17 +7,17 @@
 
 ### Data Visualization
 
-[2022-2023 US Book Bans](/Project1)
+[2022-2023 US Book Bans](projects/Project1)
 ![Book Bans Logo](images/bookbanslogo.png?raw=true)
 
 ### Statistics 
 
-[Survival Analysis: Impacts of Sedimentation and Temperature on Coral Survival](/Project3)
+[Survival Analysis: Impacts of Sedimentation and Temperature on Coral Survival](projects/Project3)
 ![Coral Survival Analysis](images/coralSA.png?raw=true)
 
 ### SQL & APIs
 
-[Data Analysis of PDX Flights and Weather](/Project2)
+[Data Analysis of PDX Flights and Weather](projects/Project2)
 ![PDX Flights and Weather](images/pdx.jpg?raw=true)
 
 ---
