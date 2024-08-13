@@ -16,7 +16,7 @@ on Coral Survival
 
 [Data Analysis of PDX Flights and Weather
 ](/Project2)
-<img src="images/coralSA.png?raw=true"/>
+<img src="images/pdx.jpg?raw=true"/>
 
 ### Coming Soon!
 
