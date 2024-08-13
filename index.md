@@ -1,5 +1,6 @@
 ## Welcome to my portfolio!
-**I'm Alaina Holland**, a Data Analyst who thrives on turning complex data into clear, actionable insights. With an MBA and a master's in Data Science from Willamette University, I specialize in optimizing business processes, creating interactive dashboards, and leveraging data to drive smart decisions. Whether it's refining inventory systems, evaluating AI in telehealth, or dissecting what it takes to survive 'The Bachelor,' my passion lies in making data work for you.
+**I'm Alaina**, 
+a *Data Analyst* who thrives on turning complex data into clear, actionable insights. With an MBA and a master's in Data Science from Willamette University, I specialize in optimizing business processes, creating interactive dashboards, and leveraging data to drive smart decisions. Whether it's refining inventory systems, evaluating AI in telehealth, or dissecting what it takes to survive 'The Bachelor,' my passion lies in making data work for you.
 
   With a strong foundation in strategic solution development and market research, I bring a results-driven approach to every project. My goal is to solve real-world problems through data analytics, delivering innovative solutions in a collaborative environment. Explore my portfolio to see how I make data-driven insights a reality.
 
