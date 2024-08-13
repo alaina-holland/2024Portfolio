@@ -2,7 +2,7 @@
 
 ### **Hi, I'm Alaina!**
 
-I'm a *Data Analyst* who loves transforming complex data into actionable insights. After investing in an **MBA**, a Master's in **Data Science**, a Bachelor's in **Supply Chain Management**, and a Minor in **Marketing**, I've honed my skills in optimizing business processes, crafting interactive dashboards, and using data to drive smart decisions. Whether it's refining inventory systems, evaluating AI in telehealth, or exploring what it takes to win 'The Bachelor,' I'm passionate about making data work for you.
+I'm a *Data Analyst* who loves transforming complex data into actionable insights. After investing in an *MBA*, a Master's in *Data Science*, a Bachelor's in *Supply Chain Management*, and a Minor in *Marketing*, I've honed my skills in optimizing business processes, crafting interactive dashboards, and using data to drive smart decisions. Whether it's refining inventory systems, evaluating AI in telehealth, or exploring what it takes to win 'The Bachelor,' I'm passionate about making data work for you.
 
 With a strong background in strategic solution development and market research, I take a results-driven approach to every project. My goal is to solve real-world problems through data analytics, delivering innovative solutions in a collaborative environment. Take a look at my portfolio to see how I turn data into meaningful insights.
 
@@ -10,7 +10,7 @@ With a strong background in strategic solution development and market research, 
 ### Resume
 [Resume (Last Updated August 12, 2024)](/AlainaHolland_Portfolio_Resume.pdf)
 
-## Portfolio
+# Past Projects
 
 ---
 
