@@ -1,18 +1,16 @@
-title: Alaina Holland # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Alaina Holland
+logo: "/images/logo.png?raw=true"
+description: > 
   Hi! I'm Alaina Holland, a data enthusiast with an MBA and a master's in Data Science from Willamette University. With a background in the art world and experience in supply chain management, I specialize in turning complex data into actionable insights to solve business problems. Whether it's optimizing inventory systems, evaluating AI in telehealth, or even determining what it takes to survive 'The Bachelor', I'm passionate about making data work for you.
-  <br><br>
-  <a href="https://www.linkedin.com/in/alainaholland/">Find me on LinkedIn</a>
-  <br><br>
-  **Contact Information:**
 
-  <br>
-  **Email**: [alainaholland27@gmail.com](mailto:alainaholland27@gmail.com)
-  <br>
-  **Website**: [www.alainaholland.com](http://www.alainaholland.com)
+  **Find me on LinkedIn:** [LinkedIn/alainaholland](https://www.linkedin.com/in/alainaholland/)
+
+  **Contact Information:**
+  - **Phone**: (208) 860-7452
+  - **Email**: [alainaholland27@gmail.com](mailto:alainaholland27@gmail.com)
+  - **Website**: [www.alainaholland.com](http://www.alainaholland.com)
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: UA-000000-0 # Replace with your Google Analytics tracking ID
