@@ -7,7 +7,6 @@ I'm a *Data Analyst* who loves transforming complex data into actionable insight
 With a strong background in strategic solution development and market research, I take a results-driven approach to every project. My goal is to solve real-world problems through data analytics, delivering innovative solutions in a collaborative environment. Take a look at my portfolio to see how I turn data into meaningful insights.
 
 
-### Resume
 [Resume (Last Updated August 12, 2024)](/AlainaHolland_Portfolio_Resume.pdf)
 
 # Past Projects
