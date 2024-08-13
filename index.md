@@ -4,25 +4,23 @@
 ## Portfolio
 
 ---
+
 ### Data Visualization
 
 [2022-2023 US Book Bans](/Project1)
-<img src="images/bookbanslogo.png?raw=true"/>
+![Book Bans Logo](images/bookbanslogo.png?raw=true)
 
 ### Statistics 
-[Survival Analysis: Impacts of Sedimentation and Temperature 
-on Coral Survival
-](/Project3)
-<img src="images/coralSA.png?raw=true"/>
+
+[Survival Analysis: Impacts of Sedimentation and Temperature on Coral Survival](/Project3)
+![Coral Survival Analysis](images/coralSA.png?raw=true)
 
 ### SQL & APIs
 
-[Data Analysis of PDX Flights and Weather
-](/Project2)
-<img src="images/pdx.jpg?raw=true"/>
+[Data Analysis of PDX Flights and Weather](/Project2)
+![PDX Flights and Weather](images/pdx.jpg?raw=true)
 
-
-
+---
 
 ### Coming Soon!
 
@@ -30,7 +28,7 @@ on Coral Survival
 * **Inventory Optimization Machine Learning** - Can we create a Supply Chain ML product?
 * **Capstone Project: Evaluating Telehealth AI Diagnosis Accuracy** - Should you trust those chatbots??
 
-
+---
 
 ### Press
 
@@ -38,9 +36,5 @@ on Coral Survival
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove the above link if you don't want to attribute -->
